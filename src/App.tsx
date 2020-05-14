@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//얘는 사용하는 애가 아님.(components 내부의 App.tsx를 사용함)
 function App() {
   return (
     <div className="App">
